@@ -1,0 +1,29 @@
+# Virtual environments
+venv/
+env/
+.langchain-course-env/
+langchain-course-env/
+*/venv/
+*/env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+.env.*
+*.env
+
+# macOS metadata
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Byte-compiled / compiled / build
+build/
+dist/
+*.egg-info/

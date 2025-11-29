@@ -1,0 +1,4 @@
+langchain_ibm
+langgraph
+notebook
+python-dotenv
